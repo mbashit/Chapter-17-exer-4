@@ -23,6 +23,9 @@ int main()
 	if (goalA > goalB) {
 		cout << "the winner is" << goalA << endl;
 	}
+	else {
+		cout << "the winner is" << goalB << endl;
+	}
 	return 0;
 }
 
